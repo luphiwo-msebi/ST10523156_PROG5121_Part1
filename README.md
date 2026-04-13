@@ -10,7 +10,6 @@
   ## Project Information
   In the Project i've created a source package that has three main classes that makes up the package (login.java, main.java, and LoginTest.java). Each part is supported many Data Types that makes the code, for example(String & boolean), all used to create one part of the ChatApp that is being made. Main.java is the structuer of from the being, while login.java is the class helps form the main but same could be said vicevarse for the login( if mains package is inncorrect then login won't run the code). LoginTest.java tests the login code to see if it is a proper running code for ChatApp.
 
-
   ---
 
 ## Features
