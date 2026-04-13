@@ -15,7 +15,7 @@
 
 ## Features
 ### Username Validation
-String data type is used: "Xavier Lamer Jackson ", with a limited number of charactes
+String data type is used: "Nathaniel Jackson ", with a limited number of charactes
 
 ### Password Validation
 Supported by String dats type: "Shggt", Special characters can be used
